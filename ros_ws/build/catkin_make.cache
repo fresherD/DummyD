@@ -1,0 +1,2 @@
+RobotSDK/fastvirtualscan:RobotSDK/glviewer:RobotSDK/rosinterface:autoware_camera_lidar_calibrator:autoware_msgs:calibration_camera_lidar:dbw_mkz_msgs:multi_lidar_calibrator:points2image:scan2image
+-DCATKIN_DEVEL_PREFIX=/root/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/root/ros_ws/install -G Unix Makefiles
