@@ -1,8 +1,0 @@
-prefix=/root/ros_ws/devel
-
-Name: rosinterface
-Description: Description of rosinterface
-Version: 1.7.0
-Cflags: -I/root/ros_ws/src/RobotSDK/rosinterface/include
-Libs: -L${prefix}/lib -lrosinterface
-Requires: roscpp tf

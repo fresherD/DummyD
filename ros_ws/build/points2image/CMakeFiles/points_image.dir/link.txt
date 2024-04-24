@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -std=c++11 -O2 -g -Wall   -shared -Wl,-soname,libpoints_image.so -o /root/ros_ws/devel/lib/libpoints_image.so CMakeFiles/points_image.dir/lib/points_image/points_image.cpp.o CMakeFiles/points_image.dir/points_image_automoc.cpp.o 

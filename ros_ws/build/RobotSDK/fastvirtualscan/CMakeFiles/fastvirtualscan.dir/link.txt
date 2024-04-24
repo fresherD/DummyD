@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -std=c++11 -O2 -g -Wall   -shared -Wl,-soname,libfastvirtualscan.so -o /root/ros_ws/devel/lib/libfastvirtualscan.so CMakeFiles/fastvirtualscan.dir/FastVirtualScan/fastvirtualscan.cpp.o 

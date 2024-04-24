@@ -1,8 +1,0 @@
-prefix=/root/ros_ws/devel
-
-Name: fastvirtualscan
-Description: Description of fastvirtualscan
-Version: 1.7.0
-Cflags: -I/root/ros_ws/src/RobotSDK/fastvirtualscan/include
-Libs: -L${prefix}/lib -lfastvirtualscan
-Requires: roscpp sensor_msgs
